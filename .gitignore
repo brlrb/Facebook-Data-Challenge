@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+variables.env
+bin/
+package-lock.json
+
+
+
+# testing
+/testing
+
+# production
+/build
+/yelp_dataset
+
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode
+.idea
+*.log
+.class
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
